@@ -1,6 +1,6 @@
 ## Hi, I'm Jinho 👋
 
-CS student @ Hankuk University of Foreign Studies, graduating Feb 2026  
+CS student, graduating Feb 2026  
 Based in Seoul, Korea
 
 ## What I'm Working On
